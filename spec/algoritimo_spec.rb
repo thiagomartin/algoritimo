@@ -2,7 +2,7 @@
 
 RSpec.describe Algoritimo do
   it "has a version number" do
-    expect(Algoritimo::VERSION).not_to be nil
+    expect(Algoritimo::VERSION).to be "0.1.0"
   end
 
   it "does something useful" do

@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require_relative "algoritimo/binary_search"
 require_relative "algoritimo/version"
 
 module Algoritimo
