@@ -16,7 +16,6 @@ module Algoritimo
       end
     end
 
-    # Retorna nil se o item não for encontrado
     nil
   end
 end
